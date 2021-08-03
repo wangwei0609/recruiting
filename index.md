@@ -7,9 +7,6 @@
 - [Innovation Developer](https://jobs.zf.com/job/Shanghai-IT-Innovation-Developer-SH-201814/693738201/)
 
 
-
-
-
 You can use the [editor on GitHub](https://github.com/wangwei0609/ipa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
